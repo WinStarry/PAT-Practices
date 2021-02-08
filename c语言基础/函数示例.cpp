@@ -13,7 +13,7 @@ void print2(){
 int main(){
 	
 	print1();
-	printf("\n"); 
+	printf("\n\n"); 
 	print2();
 	
 	return 0;
